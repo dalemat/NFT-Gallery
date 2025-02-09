@@ -1,6 +1,6 @@
 // Contract Configuration
-export const SMART_CONTRACT = "0x251BE3A17Af4892035C37ebf5890F4a4D889dcAD";
-export const RPC_URL = "https://polygon-rpc.com";
+export const SMART_CONTRACT = "0x316b0aE962295AcFBce34461dDd0B8105eb215d4";
+export const RPC_URL = "https://eth.drpc.org";
 
 // IPFS Gateway Configuration
 export const IPFS_GATEWAYS = [
